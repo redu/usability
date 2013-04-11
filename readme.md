@@ -1,5 +1,5 @@
 # Usability
-ISO define usability as: "The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use." By this definition, we should report a *usability issue* every time someone realize that the interface cannot achieve the following metrics:
+ISO define usability as: "The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use." By this definition, we should report a *usability issue* every time someone realize that the interface cannot achieve the following *standart* metrics:
 - **Learnability**: How easy is it for users to accomplish basic tasks the first time they encounter the design?
 - **Efficiency**: Once users have learned the design, how quickly can they perform tasks?
 - **Memorability**: When users return to the design after a period of not using it, how easily can they re establish proficiency?
