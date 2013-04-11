@@ -14,4 +14,4 @@ You must:
 - **Where** this issue come from (in Redu's architecture);
 - **What** the user wanted to do;
 - **Why** he couldn't do what he wanted;
-- There was some **frustation** because of this issue?
+- If there was some **frustation** because of this issue.
