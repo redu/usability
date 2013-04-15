@@ -15,7 +15,9 @@ Each member is allowed to proactively report any behavior that might affect our 
 ### How can you report a usability issue?
 You must:
 - Generate and upload a **screenshot** of the interface's context;
-- **Where** this issue come from (in Redu's architecture);
-- **What** the user wanted to do;
-- **Why** he couldn't do what he wanted;
-- If there was some **frustation** because of this issue.
+- Inform **where** this issue come from (in Redu's architecture);
+- Inform **what** the user wanted to do;
+- Inform **why** he couldn't do what he wanted;
+- Inform if there was some **frustation** because of this issue.
+
+Some informations may be difficult (or impossible) to note. In these cases, you have to be careful about your personal assumptions from the facts it is shown.
