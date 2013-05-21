@@ -20,10 +20,25 @@ By this definition, we should report a usability issue every time someone realiz
 
 Some informations may be difficult (or impossible) to note. In these cases, you have to be careful about your personal assumptions from the facts it is shown.
 ## How can you rank a issue?
-There are three labels you must use in order to inform priority:
+Every issue created must be associated with a label — _High_, _Medium_, _Low_ and/or _Next Version_. 
 
-1. **High**: issues that have a great impact in achieving a wanted task by the user and/or causes impediment in accomplish Redu's strategic decisions;
-2. **Low**: issues that will not affect the overall User Experience in unpleasant way;
-3. **Next Version**: issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready.
+We rank these labels by the following matrix:
 
-P.S.: _Next Version_'s issues must be together of _High_ or _Low_ labels.
+![Ranking Issues](https://dl.dropboxusercontent.com/u/13659411/Ranking-Issues.png)
+
+#### Value
+The measure of value must guided to accomplish Redu's strategic decisions:
+
+1. content production;
+2. management of V.L.E. (“A.V.A.”);
+3. members' social interactions (“A.V.A.”);
+4. lessons' visualization;
+5. security and privacy;
+6. partnership.
+
+#### Impediment
+The measure of impediment must follow the usability's *standart* metrics.
+
+P.S.: *Next Version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready.
+
+P.S.2: *Next Version*'s issues must be together of _High_, _Medium_ or _Low_ labels.
