@@ -39,6 +39,10 @@ The measure of value must guided to accomplish Redu's strategic decisions:
 #### Impediment
 The measure of impediment must follow the usability's *standart* metrics.
 
+
+***
+
+
 P.S.: *Next Version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready.
 
 P.S.2: *Next Version*'s issues must be together of _High_, _Medium_ or _Low_ labels.
