@@ -1,6 +1,6 @@
 # Usability
 ## What is the goal of this branch?
-To proactively report any behavior/usability issue that might affect the overall User Experience of Redu. ISO define usability as: 
+To proactively report any behavior/usability issue that might affect the overall User Experience of Redu. [ISO](http://www.iso.org/iso/home.html) define usability as: 
 > “The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use.”
 
 By this definition, we should report a usability issue every time someone realize that the interface cannot achieve the following *standart* metrics:
@@ -37,7 +37,7 @@ The measure of value must guided to accomplish Redu's strategic decisions:
 6. partnership.
 
 #### Impediment
-The measure of impediment must follow the usability's *standart* metrics.
+The measure of impediment must follow the [usability's standart metrics](https://github.com/redu/usability/blob/master/README.md#what-is-the-goal-of-this-branch).
 
 
 ***
