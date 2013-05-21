@@ -20,9 +20,7 @@ By this definition, we should report a usability issue every time someone realiz
 
 Some informations may be difficult (or impossible) to note. In these cases, you have to be careful about your personal assumptions from the facts it is shown.
 ## How can you rank a issue?
-Every issue created must be associated with a label — _high_, _medium_, _low_ and/or _next version_. 
-
-We rank these labels by the following matrix:
+Every issue created must be associated with a label — _high_, _medium_, _low_ and/or _next version_.  We rank these labels by the following matrix:
 
 ![Ranking Issues](https://dl.dropboxusercontent.com/u/13659411/Ranking-Issues.png)
 
