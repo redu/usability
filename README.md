@@ -20,7 +20,7 @@ By this definition, we should report a usability issue every time someone realiz
 
 Some informations may be difficult (or impossible) to note. In these cases, you have to be careful about your personal assumptions from the facts it is shown.
 ## How can you rank a issue?
-Every issue created must be associated with a label — _High_, _Medium_, _Low_ and/or _Next Version_. 
+Every issue created must be associated with a label — _high_, _medium_, _low_ and/or _next version_. 
 
 We rank these labels by the following matrix:
 
@@ -29,12 +29,12 @@ We rank these labels by the following matrix:
 #### Value
 The measure of value must guided to accomplish Redu's strategic decisions:
 
-1. content production;
-2. management of V.L.E. (“A.V.A.”);
-3. members' social interactions (“A.V.A.”);
-4. lessons' visualization;
-5. security and privacy;
-6. partnership.
+1. Content production;
+2. Management of V.L.E. (“A.V.A.”);
+3. Members' social interactions (“A.V.A.”);
+4. Lessons' visualization;
+5. Security and privacy;
+6. Partnership.
 
 #### Impediment
 The measure of impediment must follow the [usability's standart metrics](https://github.com/redu/usability/blob/master/README.md#what-is-the-goal-of-this-branch).
@@ -43,6 +43,4 @@ The measure of impediment must follow the [usability's standart metrics](https:/
 ***
 
 
-P.S.: *Next Version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready.
-
-P.S.2: *Next Version*'s issues must be together of _High_, _Medium_ or _Low_ labels.
+P.S.: *next version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready. It must be together of _high_, _medium_ or _low_ labels.
