@@ -10,6 +10,10 @@ By this definition, we should report a usability issue every time someone realiz
 - **Errors**: how many errors do users make, how severe are these errors, and how easily can they recover from the errors?
 - **Satisfaction**: how pleasant is it to use the design?
 
+## References
+Here is a list of some usability guidelines we user as reference:
+- [Usability.gov](http://guidelines.usability.gov/)
+
 ## How can you report a usability issue?
 
 1. Generate and upload a **screenshot** of the interface's context;
