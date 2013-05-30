@@ -10,10 +10,6 @@ By this definition, we should report a usability issue every time someone realiz
 - **Errors**: how many errors do users make, how severe are these errors, and how easily can they recover from the errors?
 - **Satisfaction**: how pleasant is it to use the design?
 
-## References
-Here is a list of some usability guidelines we user as reference:
-- [Usability.gov](http://guidelines.usability.gov/)
-
 ## How can you report a usability issue?
 
 1. Generate and upload a **screenshot** of the interface's context;
@@ -46,3 +42,10 @@ The measure of impediment must follow the [usability's standart metrics](https:/
 
 
 P.S.: *next version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready. It must be together of _high_, _medium_ or _low_ labels.
+
+
+***
+
+
+#### Further Reference
+Usability guidelines can we use as reference: [Usability.gov](http://guidelines.usability.gov/)
