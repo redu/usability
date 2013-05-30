@@ -48,4 +48,4 @@ P.S.: *next version* is a label for issues that may be hard to solve in the curr
 
 
 #### Further Reference
-Usability guidelines can we use as reference: [Usability.gov](http://guidelines.usability.gov/)
+Usability guidelines we can use as reference: [Usability.gov](http://guidelines.usability.gov/)
