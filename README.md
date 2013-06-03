@@ -10,6 +10,9 @@ By this definition, we should report a usability issue every time someone realiz
 - **Errors**: how many errors do users make, how severe are these errors, and how easily can they recover from the errors?
 - **Satisfaction**: how pleasant is it to use the design?
 
+#### Further Reference
+Usability guidelines we can use as reference: [Usability.gov](http://guidelines.usability.gov/)
+
 ## How can you report a usability issue?
 
 1. Generate and upload a **screenshot** of the interface's context;
@@ -25,7 +28,7 @@ Every issue created must be associated with a label — _high_, _medium_, _low_ 
 ![Ranking Issues](https://dl.dropboxusercontent.com/u/13659411/Ranking-Issues.png)
 
 #### Value
-The measure of value must guided to accomplish Redu's strategic decisions:
+The measure of value must be guided to accomplish Redu's strategic decisions:
 
 1. Content production;
 2. Management of V.L.E. (“A.V.A.”);
@@ -37,15 +40,6 @@ The measure of value must guided to accomplish Redu's strategic decisions:
 #### Impediment
 The measure of impediment must follow the [usability's standart metrics](https://github.com/redu/usability/blob/master/README.md#what-is-the-goal-of-this-branch).
 
-
 ***
-
 
 P.S.: *next version* is a label for issues that may be hard to solve in the current version of the U.I. and/or have a need for more than two iterations to be ready. It must be together of _high_, _medium_ or _low_ labels.
-
-
-***
-
-
-#### Further Reference
-Usability guidelines we can use as reference: [Usability.gov](http://guidelines.usability.gov/)
