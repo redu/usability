@@ -12,6 +12,7 @@ By this definition, we should report a usability issue every time someone realiz
 
 #### Further Reference
 Usability guidelines we can use as reference: [Usability.gov](http://guidelines.usability.gov/)
+Social Media User Experience: [Social UX] (http://www.nngroup.com/reports/social-media-user-experience/)
 
 ## How can you report a usability issue?
 
